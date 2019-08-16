@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a PhD student in the Physical Computation Laboratory at Cambridge University funded by the EPSRC through the sensors CDT. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I have a background in general engineering (mechanical, civil, electrical and electronic) but mainly in electronics.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My research interests are non-uniform random number generation, asynchronous logic, FPGAs, MEMs sensors, wireless sensor networks, finite element modelling of MEMs and nanotechnology, embedded systems and implantable sensors.
